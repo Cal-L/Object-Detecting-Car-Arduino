@@ -1,0 +1,1 @@
+An iRobot Roomba inspired car that can detect and avoid potential obstacles within a 180 frontal field of vision. Two ultrasonic range detection sensors feed data to an Arduino which dictates the movement of two DC motors. The objective was to create an autonomous device capable of interacting with the surrounding environment.
